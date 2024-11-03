@@ -5,3 +5,6 @@ I didn't write this, I just coaxed an LLM to write this for me. It's probably br
 
 
 ![tinyscreenshot](https://github.com/user-attachments/assets/7f9a5199-82f7-4419-8804-a780f6d1f1be)
+
+
+![screenshot2](https://github.com/user-attachments/assets/1f8de068-f28e-461e-99de-35980f106c80)
