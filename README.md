@@ -11,5 +11,6 @@ I didn't write this, I just coaxed an LLM to write this for me. It's probably br
 
 
 This was the compiler command. I built this on ArchLinuxPOWER. 
+
 gcc -o g4batstat-tray g4batstat-tray.c $(pkg-config --cflags --libs gtk+-3.0)
 
