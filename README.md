@@ -3,6 +3,9 @@ GTK Battery Status for PowerBook G4
 
 I didn't write this, I just coaxed an LLM to write this for me. It's probably broken and I don't know how to fix it.
 
+Requires
+`sudo pacman -S gtk3 pkgconf`
+
 This was the compiler command. I built this on ArchLinuxPOWER. 
 
 ```bash
